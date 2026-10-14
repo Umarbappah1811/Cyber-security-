@@ -21,3 +21,14 @@ I'm a beginner learning cybersecurity, computer networking, Linux, and Python.
 - [ ] Build my first project.
 
 I'm learning step by step and documenting my progress here.
+## Networking Notes: DNS
+
+- DNS stands for Domain Name System.
+- DNS translates domain names into IP addresses.
+- DNS helps devices locate internet services.
+- DNS alone does not prove that a website is safe.
+
+### Practice
+- [x] Learn what an IP address is.
+- [x] Learn what DNS does.
+- [ ] Learn about HTTP and HTTPS.
